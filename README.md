@@ -1,2 +1,2 @@
-# Kindle-Fire6
-Kindle-Fire6 üzerinde yaptığımız çalışmaları içermektedir.
+# Kindle-Fire5
+Kindle-Fire5 üzerinde yaptığımız çalışmaları içermektedir.
